@@ -1,0 +1,11 @@
+c:\users\g483-13\documents\visual studio 2012\Projects\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\bin\Debug\DrawingClasses (Bakhtuev483).exe.config
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses (Bakhtuev483).csprojAssemblyReference.cache
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses__Bakhtuev483_.DrawBoard.resources
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses__Bakhtuev483_.Properties.Resources.resources
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses (Bakhtuev483).csproj.GenerateResource.cache
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses (Bakhtuev483).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\bin\Debug\DrawingClasses (Bakhtuev483).exe.config
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\bin\Debug\DrawingClasses (Bakhtuev483).exe
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\bin\Debug\DrawingClasses (Bakhtuev483).pdb
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses (Bakhtuev483).exe
+C:\Users\Admin\Documents\483\01.03 Fomin\01.01 ПМ\DrawingClasses (Bakhtuev483)\DrawingClasses (Bakhtuev483)\obj\Debug\DrawingClasses (Bakhtuev483).pdb
